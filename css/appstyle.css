@@ -1,8 +1,8 @@
 html, body
 {
-	background-color:black;
-	height: 98%;
-	width: 98%;
+	background-image: url("http://buragezi.com/images/img6/wood-fence-background-amazing-1.jpg");
+	height: 100%;
+	width: 100%;
 }
 
 
@@ -10,7 +10,8 @@ h3 {color:white;
 	margin-top: 30px;
 	height: 10%;
 	font-family: "Comic Sans";
-	font-size: 20pt;
+	font-size: 30pt;
+	font-color: white;
 	user-select: none;
 	text-align: center;
 }
